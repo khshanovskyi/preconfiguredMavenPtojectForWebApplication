@@ -46,4 +46,9 @@ Steps:
 </settings>             
 ``` 
 > 4. Replace *your_github_email* in this file on your email from the GitHub account
+
 > 5. Build the project.
+
+> 6. Add Tomcat (or another server configuration) as on screenshots
+
+> 7. Start your server.
