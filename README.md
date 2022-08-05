@@ -52,5 +52,11 @@ Steps:
 > 5. Build the project.
 
 > 6. Add Tomcat (or another server configuration) as on screenshots
+<details>
+<summary> screenshots: </summary> 
+
+> ![tom-1](https://user-images.githubusercontent.com/55089853/183022183-ce323574-7062-4298-8818-11deddf7c9ae.png)
+> ![Screenshot 2022-08-05 100956](https://user-images.githubusercontent.com/55089853/183022290-e0447ccf-72b7-470a-975e-34fad2d6f07c.png)
+</details>
 
 > 7. Start your server.
