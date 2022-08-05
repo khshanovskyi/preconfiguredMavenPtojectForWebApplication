@@ -42,7 +42,7 @@ Steps:
     <server>
         <id>github</id>
         <username>your_github_email</username>
-        <password>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</password>
+        <password>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</password>
     </server>
 </servers>
 </settings>             
