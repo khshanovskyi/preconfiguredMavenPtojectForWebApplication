@@ -42,16 +42,20 @@ Steps:
     <server>
         <id>github</id>
         <username>your_github_email</username>
-        <password>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</password>
+        <password>bring_token</password>
     </server>
 </servers>
 </settings>             
 ``` 
 > 4. Replace *your_github_email* in this file on your email from the GitHub account
 
-> 5. Build the project.
+> 5. Contact Bring team and ask a token for downloading dependency.
 
-> 6. Add Tomcat (or another server configuration) as on screenshots
+> 6. Replace *bring_token* on provided from Bring team.
+
+> 7. Build the project.
+
+> 8. Add Tomcat (or another server configuration) as on screenshots
 <details>
 <summary> screenshots: </summary> 
 
@@ -59,4 +63,4 @@ Steps:
 > ![Screenshot 2022-08-05 100956](https://user-images.githubusercontent.com/55089853/183022290-e0447ccf-72b7-470a-975e-34fad2d6f07c.png)
 </details>
 
-> 7. Start your server.
+> 9. Start your server.
