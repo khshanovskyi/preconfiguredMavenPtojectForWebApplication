@@ -22,7 +22,7 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>com.svydovets.documented</groupId>
+            <groupId>com.svydovets</groupId>
             <artifactId>svydovets-bring-framework</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
